@@ -6,7 +6,7 @@
 
 ---
 
-### Tabela de Conteudo
+### Content Table
 
 - [Description](#description)
 - [How To Use](#how-to-use)
