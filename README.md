@@ -44,7 +44,9 @@ Provides support for modern JavaScript features such as classes, modules, and ar
 #### Installation
 
 ```
-    npm install typescritp
+    npm install typescript
+```
+```
     tsc --init
 ```
 
