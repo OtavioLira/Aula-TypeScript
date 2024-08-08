@@ -66,7 +66,7 @@ To convert TypeScritp Code to Javascript
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2017] [Otávio Lira Neves]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -92,7 +92,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [OtavioLira](https://www.linkedin.com/in/otavioliraneves/)
-- Email - [OtavioLira](otavioliraneves@gmail.com)
+- Linkedin - [Otavio Lira Neves](https://www.linkedin.com/in/otavioliraneves/)
+- Email - [Otavio Lira Neves](otavioliraneves@gmail.com)
 
 [Back To The Top](#Aula-TypeScript)
